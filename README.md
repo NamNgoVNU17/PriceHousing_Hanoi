@@ -1,0 +1,2 @@
+- Tiền xử lý và trực quan hóa dữ liệu với Pandas và Matplotlib
+- Dự đoán giá nhà với Linear Regression, Lasso, Ridge
